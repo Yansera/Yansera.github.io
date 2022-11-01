@@ -1314,7 +1314,7 @@ photos img {
 }
 #nexmoe-header .nexmoe-widget-wrap .nexmoe-widget .category-list-count {
   color: #4169e1;
-  background-color: #87cefa;
+  background-color: #fffafa;
 }
 #nexmoe-header .nexmoe-widget-wrap .nexmoe-widget .archive-list-count {
   color: #4169e1;
@@ -1333,7 +1333,7 @@ photos img {
   padding: 0 10px;
   font-size: 14px;
   border-radius: 15px 0 8px 0;
-  background-color: #87cefa;
+  background-color: #fffafa;
   height: 30px;
   color: #4169e1;
   display: flex;
@@ -1386,7 +1386,7 @@ article h6:before {
 }
 article ol li::before {
   color: #4169e1;
-  background-color: #87cefa;
+  background-color: #fffafa;
 }
 article pre .text,
 article pre .txt {
@@ -1396,7 +1396,7 @@ article pre .txt {
   background: #4169e1;
 }
 .nexmoe-rainbow a:nth-child(7n+1) {
-  background: #87cefa;
+  background: #fffafa;
   color: #4169e1;
 }
 #nexmoe-content .nexmoe-post .nexmoe-py .aplayer {
@@ -1426,7 +1426,7 @@ article pre .txt {
   background: #4169e1;
 }
 #nexmoe-content .nexmoe-post .nexmoe-comment .v button {
-  background: #87cefa;
+  background: #fffafa;
   color: #4169e1;
 }
 #nexmoe-content .nexmoe-post .nexmoe-comment .v button:hover {
@@ -1445,7 +1445,7 @@ article pre .txt {
 }
 #nexmoe-content .nexmoe-primary .nexmoe-page-nav .current {
   background: #4169e1;
-  box-shadow: 0 2px 12px #87cefa;
+  box-shadow: 0 2px 12px #fffafa;
 }
 #daodream-container .daodream-launcher {
   right: 60px !important;
@@ -1455,8 +1455,8 @@ article pre .txt {
   display: none;
 }
 #daodream-container .daodream-sheet-header {
-  background-image: linear-gradient(0deg, #87cefa, #87cefa) !important;
-  box-shadow: 0 1px 0 0 #87cefa, 0 1px 2px 0 #87cefa !important;
+  background-image: linear-gradient(0deg, #fffafa, #fffafa) !important;
+  box-shadow: 0 1px 0 0 #fffafa, 0 1px 2px 0 #fffafa !important;
   color: #4169e1;
 }
 #daodream-container .daodream-sheet-header .daodream-sheet-header-generic-title {
